@@ -41,6 +41,9 @@
 - Los datos están completamente **anonimizados** y generados para fines de formación.
 - Este proyecto fue desarrollado como parte de una **formación interna en Power BI/Power Query**.
 
+📄 Para más detalles técnicos sobre los pasos de limpieza realizados, consulta el archivo  
+➡️ [`TRANSFORMACIONES_PQ.md`](./TRANSFORMACIONES_PQ.md)
+
 ---
 
 ## 📫 Contacto / Contact
