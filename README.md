@@ -28,11 +28,11 @@
 
 ## 📁 Archivos incluidos / Included Files
 
-| Archivo / File              | Descripción / Description                                |
-|----------------------------|-------------------------------------------------------------|
-| `datos_original.csv`       | Dataset inicial con errores y formatos mixtos              |
-| `datos_limpios.csv`        | Dataset final limpio, listo para carga en Power BI         |
-| `documentacion_transformaciones.docx` | Detalle paso a paso de todas las transformaciones realizadas |
+| Archivo / File                         | Descripción / Description                                |
+|----------------------------------------|-----------------------------------------------------------|
+| `datos_original - Original Data.csv`   | Dataset bruto / Raw dataset (simulated, anonymized)       |
+| `datos_limpios - Clean Data.csv`       | Dataset limpio y preparado / Cleaned and prepared dataset |
+| `documentacion_transformaciones.docx`  | Detalle técnico de limpieza / Cleaning steps documentation |
 
 ---
 
