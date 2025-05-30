@@ -28,11 +28,19 @@
 
 ## 📁 Archivos incluidos / Included Files
 
-| Archivo / File                         | Descripción / Description                                |
-|----------------------------------------|-----------------------------------------------------------|
-| `datos_original - Original Data.csv`   | Dataset bruto / Raw dataset (simulated, anonymized)       |
-| `datos_limpios - Clean Data.csv`       | Dataset limpio y preparado / Cleaned and prepared dataset |
-| `documentacion_transformaciones.docx`  | Detalle técnico de limpieza / Cleaning steps documentation |
+| Archivo / File                            | Descripción / Description                                |
+|-------------------------------------------|-----------------------------------------------------------|
+| `Datos Original - Original Data.csv`      | Dataset bruto (anonimizado) / Raw dataset (simulated, anonymized)       |
+| `Datos Limpios - Clean Data.csv`          | Dataset limpio y preparado / Cleaned and prepared dataset |
+| `PowerQuery_ETL_Details.md`               | Documentación técnica de limpieza / Technical transformation log |
+
+---
+
+## 🧪 Cómo utilizar este proyecto
+
+1. Descarga los archivos `Datos Original - Original Data.csv` y `Datos Limpios - Clean Data.csv`.
+2. Abre Power BI y utiliza Power Query para importar `Datos Original - Original Data.csv`.
+3. Sigue las transformaciones detalladas en `PowerQuery_ETL_Details.md` para replicar el proceso de limpieza.
 
 ---
 
@@ -42,7 +50,7 @@
 - Este proyecto fue desarrollado como parte de una **formación interna en Power BI/Power Query**.
 
 📄 Para más detalles técnicos sobre los pasos de limpieza realizados, consulta el archivo  
-➡️ [`TRANSFORMACIONES_PQ.md`](./TRANSFORMACIONES_PQ.md)
+➡️ [`powerquery_etl_details.md`](./powerquery_etl_details.md)
 
 ---
 
