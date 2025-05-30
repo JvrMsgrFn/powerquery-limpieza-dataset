@@ -50,7 +50,7 @@
 - Este proyecto fue desarrollado como parte de una **formación interna en Power BI/Power Query**.
 
 📄 Para más detalles técnicos sobre los pasos de limpieza realizados, consulta el archivo  
-➡️ [`powerquery_etl_details.md`](./powerquery_etl_details.md)
+➡️ [`powerquery_etl_details.md`](./PowerQuery_ETL_Details.md)
 
 ---
 
